@@ -1,0 +1,10 @@
+-Create a virtual env and activate it
+virtualenv invoicely_env   - To create a virtualenvd
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -to unrestrict running of scripts
+Django REST\INVOICELY\invoicely_env> .\\Scripts\Activate.ps1 -to Activate the virtualenv
+
+installed djoser - pip install djoser - for authentication and tokens
+installed django rest framework - pip install django-rest-framework - for rest apis
+pip install django-cors-headers
+django-admin startproject invoicely
+Added this to settings.py

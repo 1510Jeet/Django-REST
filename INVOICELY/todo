@@ -1,0 +1,13 @@
+-DONE -Create a virtual env and activate it
+-DONE -Install Django and its libraries
+  -djoser(a library for helping us with authentication and tokens)
+  -django-rest-framework(a library for building the api - django-core-headers)
+  -django-core-headers(a library for handling the server headers Cross-Origin  Resource Sharing)
+-Create a new Django Project
+-Configure the project
+-Add Djoser urls to the urls file
+
+-Add the Vue CLI
+-Create a Vue Project
+-Install Axios (Library for talking with the backend)
+-Install Balma(A CSS Framework)

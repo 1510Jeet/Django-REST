@@ -1,0 +1,4 @@
+pip intall Django
+installed djoser - pip install djoser - for authentication and tokens
+installed django rest framework - pip install django-rest-framework - for rest apis
+pip install django-cors-headers
